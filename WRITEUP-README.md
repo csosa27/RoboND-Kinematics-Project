@@ -18,14 +18,12 @@
 [//]: # (Image References)
 
 [image1]: ./misc_images/forward_kinematics.JPG
-[image2]: ./misc_images/Kuka KR210 sketch.jpg
-[image3]: ./misc_images/kinematics analysis WC.jpg
-[image4]: ./misc_images/IK_equations_v1_3.JPG
+[image2]: ./misc_images/kuka_KR210_sketch.jpg
+[image3]: ./misc_images/kinematics_analysis_WC.jpg
+[image4]: ./misc_images/ik_equations_v1_3.JPG
 [image5]: ./misc_images/works.JPG
 [image6]: ./misc_images/works3.JPG
 [image7]: ./misc_images/error.JPG
-[image8]: ./misc_images/unity_res.jpg
-[image9]: ./misc_images/unity_res.jpg
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/972/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
