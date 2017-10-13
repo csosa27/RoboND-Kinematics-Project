@@ -53,7 +53,7 @@ Obtained the DH Parameters performing a kinematic sketch (**Figure** **2**) and 
 
 Using the [kr210.urdf.xacro](https://github.com/csosa27/RoboND-Kinematics-Project/tree/master/RoboND-Kinematics-Project\kuka_arm\urdf) file the below DH Parameter table was generated. Values were obtained by looking for the joints section in the xacro file; there using the sketch from **Figure** **2** distances from joint to joint were obtained and used as a(i-1) and d(i) values repective to their axis as provided in the Figure. Some values, like d(EE) might need to obtained by the sum of multiple joint xyz values, in this case, the x value of joint 6 and the x value of the gripper joint. 
 
-Links | alpha(i-1) | a(i-1) | d(i-1) | theta(i)
+Links | alpha(i-1) | a(i-1) | d(i) | theta(i)
 --- | --- | --- | --- | ---
 0->1 | 0 | 0 | 0.75 | q1
 1->2 | - pi/2 | 0.35 | 0 | -pi/2 + q2
